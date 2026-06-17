@@ -15,7 +15,7 @@ AeroGuard is an interactive Streamlit analytics dashboard that monitors aircraft
 ![Standard Dashboard View](https://github.com/user-attachments/assets/37ebbe77-b0b6-45d4-8171-829c54981f8a)
 ### 2. Advanced Fleet Analytics Mode
 *Probability curves for exact failure distribution points and sensor cross-correlation matrices.*
-![Advanced Analytics View](
+![Advanced Analytics View](https://github.com/user-attachments/assets/1c5f4179-5d74-4356-886d-68a0a7898bf1).
 
 ---
 
