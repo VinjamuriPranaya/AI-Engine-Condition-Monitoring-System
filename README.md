@@ -4,7 +4,7 @@ Developed a predictive maintenance system utilizing dedicated training and testi
 
 AeroGuard is an interactive Streamlit analytics dashboard that monitors aircraft engine degradation and predicts the **Remaining Useful Life (RUL)** of turbofan engines. Built using machine learning models trained on the comprehensive **NASA C-MAPSS dataset**, this tool provides real-time fleet analytics, sensor breakdown impacts, and failure probability tracking for aviation predictive maintenance.
 
-🚀 **[Live Dashboard Link](PASTE_YOUR_STREAMLIT_CLOUD_OR_DEPLOYMENT_URL_HERE)**
+🚀 **[Live Dashboard Link](https://ai-engine-condition-monitoring-system-cc5kmmntfuynpuqfkary8v.streamlit.app/)**
 
 ---
 
